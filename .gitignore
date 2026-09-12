@@ -1,0 +1,27 @@
+# Data
+data/
+*.csv
+*.zip
+IMDB Dataset.csv
+
+# Kaggle credentials
+kaggle.json
+.kaggle/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
